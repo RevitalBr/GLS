@@ -1,0 +1,9 @@
+.player {
+    float: right;
+    background-color: lightgray;
+    width: 300px;
+    height: 400px;
+    overflow: hidden;
+    overflow-y: auto;
+    border-style: double;
+}
